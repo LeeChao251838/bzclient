@@ -1,0 +1,97 @@
+
+hudong-dianji.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianji02
+  rotate: false
+  xy: 157, 119
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dianji03
+  rotate: false
+  xy: 2, 10
+  size: 146, 82
+  orig: 146, 82
+  offset: 0, 0
+  index: -1
+guang03
+  rotate: false
+  xy: 2, 94
+  size: 153, 153
+  orig: 156, 156
+  offset: 2, 1
+  index: -1
+shan01
+  rotate: true
+  xy: 287, 131
+  size: 51, 151
+  orig: 51, 151
+  offset: 0, 0
+  index: -1
+shan02
+  rotate: true
+  xy: 287, 184
+  size: 63, 151
+  orig: 63, 151
+  offset: 0, 0
+  index: -1
+shan03
+  rotate: true
+  xy: 440, 200
+  size: 47, 126
+  orig: 47, 126
+  offset: 0, 0
+  index: -1
+shan04
+  rotate: true
+  xy: 568, 209
+  size: 38, 107
+  orig: 38, 107
+  offset: 0, 0
+  index: -1
+shan05
+  rotate: true
+  xy: 2, 2
+  size: 6, 35
+  orig: 6, 35
+  offset: 0, 0
+  index: -1
+shandian
+  rotate: true
+  xy: 677, 186
+  size: 61, 88
+  orig: 108, 108
+  offset: 29, 7
+  index: -1
+shandian01
+  rotate: false
+  xy: 440, 116
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1
+shandian02
+  rotate: false
+  xy: 854, 172
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+shandian03
+  rotate: false
+  xy: 767, 169
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+shandian04
+  rotate: false
+  xy: 933, 174
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1

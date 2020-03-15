@@ -1,0 +1,13 @@
+
+fapai.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/paibei
+  rotate: false
+  xy: 2, 2
+  size: 286, 383
+  orig: 308, 388
+  offset: 12, 4
+  index: -1

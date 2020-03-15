@@ -1,0 +1,41 @@
+
+jidan.png
+size: 230,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jidan
+  rotate: false
+  xy: 2, 2
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+jidan02
+  rotate: false
+  xy: 2, 69
+  size: 145, 159
+  orig: 256, 256
+  offset: 55, 49
+  index: -1
+jidan03
+  rotate: false
+  xy: 149, 156
+  size: 75, 72
+  orig: 128, 128
+  offset: 26, 28
+  index: -1
+jidan04
+  rotate: false
+  xy: 55, 8
+  size: 64, 59
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jidan05
+  rotate: false
+  xy: 149, 95
+  size: 56, 59
+  orig: 64, 64
+  offset: 4, 3
+  index: -1

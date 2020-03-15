@@ -1,0 +1,51 @@
+{
+"skeleton": { "hash": "9qcLXECzKnIzV39Q5gMdmcAxmqA", "spine": "2.1.27", "width": 82, "height": 94, "images": "./choujiang_dongxiao/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "choujiang02", "parent": "root" },
+	{ "name": "choujiang2", "parent": "root" }
+],
+"slots": [
+	{ "name": "choujiang2", "bone": "choujiang2", "attachment": "choujiang", "blend": "additive" },
+	{ "name": "choujiang02", "bone": "choujiang02", "attachment": "choujiang02", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"choujiang02": {
+			"choujiang02": { "width": 82, "height": 94 }
+		},
+		"choujiang2": {
+			"choujiang": { "width": 82, "height": 88 }
+		}
+	}
+},
+"animations": {
+	"start": {
+		"slots": {
+			"choujiang2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 1.1666, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffff00" }
+				]
+			},
+			"choujiang02": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffc7" },
+					{ "time": 1.1666, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"choujiang02": {
+				"scale": [
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 1.1666, "x": 1.2, "y": 1.2 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,234 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/boom
+  rotate: false
+  xy: 2, 94
+  size: 516, 140
+  orig: 534, 157
+  offset: 11, 8
+  index: -1
+images/liandui
+  rotate: false
+  xy: 285, 4
+  size: 187, 88
+  orig: 286, 96
+  offset: 43, 4
+  index: -1
+images/sanbudai
+  rotate: false
+  xy: 2, 2
+  size: 281, 90
+  orig: 286, 96
+  offset: 1, 2
+  index: -1
+images/suipian_05
+  rotate: true
+  xy: 520, 21
+  size: 213, 254
+  orig: 213, 254
+  offset: 0, 0
+  index: -1
+images/zhadan1
+  rotate: false
+  xy: 776, 21
+  size: 188, 213
+  orig: 300, 300
+  offset: 63, 46
+  index: -1
+images/zhadanguang
+  rotate: false
+  xy: 2, 236
+  size: 1000, 780
+  orig: 1000, 832
+  offset: 0, 52
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/feijisucai
+  rotate: false
+  xy: 2, 77
+  size: 893, 405
+  orig: 909, 412
+  offset: 16, 0
+  index: -1
+images/guangyun
+  rotate: false
+  xy: 2, 484
+  size: 1014, 528
+  orig: 1025, 556
+  offset: 11, 10
+  index: -1
+images/suipian_01
+  rotate: true
+  xy: 897, 230
+  size: 124, 116
+  orig: 129, 120
+  offset: 3, 2
+  index: -1
+images/suipian_04
+  rotate: true
+  xy: 897, 106
+  size: 122, 109
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+images/suipian_07
+  rotate: false
+  xy: 897, 23
+  size: 125, 81
+  orig: 125, 82
+  offset: 0, 1
+  index: -1
+images/suipian_11
+  rotate: false
+  xy: 365, 6
+  size: 113, 69
+  orig: 113, 69
+  offset: 0, 0
+  index: -1
+images/xingxing
+  rotate: true
+  xy: 897, 356
+  size: 126, 123
+  orig: 129, 129
+  offset: 2, 3
+  index: -1
+images/ziguang1
+  rotate: false
+  xy: 2, 2
+  size: 262, 73
+  orig: 275, 73
+  offset: 0, 0
+  index: -1
+images/ziguang2
+  rotate: false
+  xy: 266, 2
+  size: 97, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/di_boom
+  rotate: false
+  xy: 2, 154
+  size: 805, 517
+  orig: 814, 543
+  offset: 9, 22
+  index: -1
+images/feiji
+  rotate: false
+  xy: 630, 62
+  size: 177, 90
+  orig: 286, 96
+  offset: 58, 5
+  index: -1
+images/sandaier
+  rotate: true
+  xy: 889, 563
+  size: 276, 90
+  orig: 286, 96
+  offset: 3, 2
+  index: -1
+images/sandaiyi
+  rotate: false
+  xy: 353, 62
+  size: 275, 90
+  orig: 286, 96
+  offset: 3, 2
+  index: -1
+images/suipian_02
+  rotate: false
+  xy: 809, 175
+  size: 160, 185
+  orig: 163, 187
+  offset: 3, 0
+  index: -1
+images/suipian_03
+  rotate: true
+  xy: 809, 362
+  size: 199, 175
+  orig: 199, 178
+  offset: 0, 2
+  index: -1
+images/suipian_09
+  rotate: false
+  xy: 161, 14
+  size: 190, 138
+  orig: 190, 142
+  offset: 0, 2
+  index: -1
+images/suipian_12
+  rotate: false
+  xy: 809, 20
+  size: 204, 153
+  orig: 204, 161
+  offset: 0, 4
+  index: -1
+images/suipian_13
+  rotate: false
+  xy: 2, 2
+  size: 157, 150
+  orig: 162, 150
+  offset: 4, 0
+  index: -1
+images/yanwu
+  rotate: false
+  xy: 2, 673
+  size: 885, 348
+  orig: 905, 348
+  offset: 20, 0
+  index: -1
+images/zhadan
+  rotate: true
+  xy: 889, 841
+  size: 180, 91
+  orig: 286, 96
+  offset: 53, 1
+  index: -1
+
+skeleton4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/paibei
+  rotate: false
+  xy: 2, 94
+  size: 286, 383
+  orig: 308, 388
+  offset: 12, 4
+  index: -1
+images/shunzi
+  rotate: false
+  xy: 592, 388
+  size: 184, 89
+  orig: 286, 96
+  offset: 48, 1
+  index: -1
+images/sidaier
+  rotate: false
+  xy: 2, 2
+  size: 272, 90
+  orig: 286, 96
+  offset: 7, 2
+  index: -1
+images/zhadan2
+  rotate: false
+  xy: 290, 177
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

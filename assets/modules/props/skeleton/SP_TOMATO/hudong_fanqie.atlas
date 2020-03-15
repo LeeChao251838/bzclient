@@ -1,0 +1,27 @@
+
+hudong_fanqie.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fanqiezhi
+  rotate: false
+  xy: 2, 78
+  size: 170, 150
+  orig: 172, 172
+  offset: 1, 14
+  index: -1
+guang03
+  rotate: false
+  xy: 174, 75
+  size: 153, 153
+  orig: 156, 156
+  offset: 2, 1
+  index: -1
+lanfanqie
+  rotate: false
+  xy: 2, 2
+  size: 76, 74
+  orig: 76, 75
+  offset: 0, 1
+  index: -1

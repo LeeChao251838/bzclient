@@ -1,0 +1,27 @@
+
+hudong_jidan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang03
+  rotate: false
+  xy: 260, 10
+  size: 153, 153
+  orig: 156, 156
+  offset: 2, 1
+  index: -1
+jidan1
+  rotate: false
+  xy: 415, 37
+  size: 152, 126
+  orig: 152, 126
+  offset: 0, 0
+  index: -1
+jidan2
+  rotate: false
+  xy: 2, 2
+  size: 256, 161
+  orig: 256, 161
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+baodan.png
+size: 178,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+08ce35de 1
+  rotate: false
+  xy: 2, 65
+  size: 113, 111
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+报单
+  rotate: true
+  xy: 2, 2
+  size: 61, 79
+  orig: 62, 80
+  offset: 0, 1
+  index: -1
+报单_glow
+  rotate: false
+  xy: 117, 119
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1

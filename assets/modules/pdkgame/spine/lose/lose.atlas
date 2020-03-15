@@ -1,0 +1,34 @@
+
+lose.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shibai
+  rotate: false
+  xy: 2, 99
+  size: 647, 148
+  orig: 647, 148
+  offset: 0, 0
+  index: -1
+shuye01
+  rotate: false
+  xy: 173, 31
+  size: 87, 66
+  orig: 88, 68
+  offset: 0, 1
+  index: -1
+流局
+  rotate: false
+  xy: 651, 152
+  size: 164, 95
+  orig: 164, 95
+  offset: 0, 0
+  index: -1
+组24
+  rotate: false
+  xy: 2, 2
+  size: 169, 95
+  orig: 169, 95
+  offset: 0, 0
+  index: -1

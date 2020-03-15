@@ -1,0 +1,76 @@
+
+feiji.png
+size: 608,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+223814ylvvngjl27hbj7pw
+  rotate: true
+  xy: 435, 122
+  size: 253, 154
+  orig: 256, 256
+  offset: 3, 48
+  index: -1
+223815qon93t793h93np9z
+  rotate: true
+  xy: 435, 377
+  size: 229, 168
+  orig: 256, 256
+  offset: 14, 42
+  index: -1
+223815s5imwcxtu76i6hct
+  rotate: false
+  xy: 2, 215
+  size: 126, 116
+  orig: 128, 128
+  offset: 2, 12
+  index: -1
+机头1
+  rotate: true
+  xy: 324, 26
+  size: 94, 211
+  orig: 95, 211
+  offset: 1, 0
+  index: -1
+机头2
+  rotate: false
+  xy: 130, 120
+  size: 95, 211
+  orig: 95, 211
+  offset: 0, 0
+  index: -1
+机头3
+  rotate: false
+  xy: 2, 2
+  size: 95, 211
+  orig: 95, 211
+  offset: 0, 0
+  index: -1
+机头4
+  rotate: false
+  xy: 227, 120
+  size: 95, 211
+  orig: 95, 211
+  offset: 0, 0
+  index: -1
+机头5
+  rotate: true
+  xy: 99, 24
+  size: 94, 211
+  orig: 95, 211
+  offset: 1, 0
+  index: -1
+飞机
+  rotate: false
+  xy: 2, 333
+  size: 431, 273
+  orig: 431, 273
+  offset: 0, 0
+  index: -1
+飞机1
+  rotate: true
+  xy: 324, 166
+  size: 165, 89
+  orig: 265, 90
+  offset: 49, 1
+  index: -1

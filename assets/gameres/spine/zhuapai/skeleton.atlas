@@ -1,0 +1,40 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/guanggongxi
+  rotate: false
+  xy: 2, 2
+  size: 998, 991
+  orig: 1000, 1000
+  offset: 2, 9
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/guang_dian1
+  rotate: false
+  xy: 772, 819
+  size: 114, 124
+  orig: 154, 145
+  offset: 21, 17
+  index: -1
+images/guanggongxi1
+  rotate: false
+  xy: 2, 173
+  size: 768, 770
+  orig: 768, 770
+  offset: 0, 0
+  index: -1
+images/majlv_3
+  rotate: false
+  xy: 2, 2
+  size: 118, 169
+  orig: 120, 171
+  offset: 1, 1
+  index: -1

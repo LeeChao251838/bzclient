@@ -1,0 +1,62 @@
+
+win.png
+size: 653,653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+08ce35de
+  rotate: false
+  xy: 228, 2
+  size: 113, 111
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+glow03
+  rotate: false
+  xy: 2, 245
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ringglowwhite2a
+  rotate: false
+  xy: 2, 19
+  size: 224, 224
+  orig: 256, 256
+  offset: 16, 16
+  index: -1
+wq03
+  rotate: false
+  xy: 228, 115
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+图层39拷贝
+  rotate: false
+  xy: 456, 253
+  size: 146, 161
+  orig: 146, 161
+  offset: 0, 0
+  index: -1
+图层40
+  rotate: false
+  xy: 260, 277
+  size: 194, 137
+  orig: 194, 137
+  offset: 0, 0
+  index: -1
+组23
+  rotate: false
+  xy: 260, 416
+  size: 270, 85
+  orig: 270, 85
+  offset: 0, 0
+  index: -1
+组26
+  rotate: false
+  xy: 2, 503
+  size: 647, 148
+  orig: 647, 148
+  offset: 0, 0
+  index: -1

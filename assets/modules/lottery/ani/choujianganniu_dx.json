@@ -1,0 +1,52 @@
+{
+"skeleton": { "hash": "v09fq6rYrEdAyVSYAWwyje8901A", "spine": "2.1.27", "width": 134, "height": 128, "images": "./image/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "guang", "parent": "root", "y": 4 },
+	{ "name": "yanse", "parent": "root", "y": 4 }
+],
+"slots": [
+	{ "name": "guang", "bone": "guang", "attachment": "guang", "blend": "additive" },
+	{ "name": "yanse", "bone": "yanse", "attachment": "yanse", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"guang": {
+			"guang": { "width": 134, "height": 128 }
+		},
+		"yanse": {
+			"yanse": { "width": 134, "height": 128 }
+		}
+	}
+},
+"animations": {
+	"start": {
+		"slots": {
+			"guang": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 1.1666, "color": "ffffff00" }
+				]
+			},
+			"yanse": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffff40" },
+					{ "time": 1.1666, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"guang": {
+				"scale": [
+					{ "time": 0, "x": 0.88, "y": 0.88 },
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 1.1666, "x": 1.03, "y": 1.03, "curve": "stepped" },
+					{ "time": 1.5, "x": 1.03, "y": 1.03 }
+				]
+			}
+		}
+	}
+}
+}

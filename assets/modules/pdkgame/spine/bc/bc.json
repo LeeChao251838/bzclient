@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "rlYJIfQr+QnNSM8NON5uIz8UA2U",
+	"spine": "2.1.27",
+	"width": 78,
+	"height": 101,
+	"images": "F:\\苏麻合集\\源文件\\精品掼蛋\\游戏内\\动态效果\\buchu\\images"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "buchu", "parent": "root", "y": -46.88 }
+],
+"slots": [
+	{ "name": "yingyin", "bone": "buchu", "attachment": "yingyin" },
+	{ "name": "buchu", "bone": "buchu", "attachment": "buchu" }
+],
+"skins": {
+	"default": {
+		"buchu": {
+			"buchu": { "x": -1, "y": 41.38, "width": 78, "height": 91 }
+		},
+		"yingyin": {
+			"yingyin": { "x": 1.49, "y": -3.11, "width": 61, "height": 22 }
+		}
+	}
+},
+"animations": {
+	"buchu_changtai": {
+		"bones": {
+			"buchu": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"buchu_start": {
+		"slots": {
+			"buchu": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff37",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1666, "color": "ffffffff" }
+				]
+			},
+			"yingyin": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1666, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"buchu": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1.248,
+						"y": 0.298,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 1.11,
+						"y": 0.785,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5666, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

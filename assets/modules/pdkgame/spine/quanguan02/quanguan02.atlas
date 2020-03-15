@@ -1,0 +1,69 @@
+
+quanguan02.png
+size: 257,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层0
+  rotate: false
+  xy: 158, 96
+  size: 50, 159
+  orig: 50, 159
+  offset: 0, 0
+  index: -1
+图层1
+  rotate: false
+  xy: 2, 69
+  size: 146, 21
+  orig: 146, 21
+  offset: 0, 0
+  index: -1
+图层2
+  rotate: true
+  xy: 231, 107
+  size: 148, 19
+  orig: 148, 19
+  offset: 0, 0
+  index: -1
+图层3
+  rotate: false
+  xy: 210, 99
+  size: 19, 156
+  orig: 19, 156
+  offset: 0, 0
+  index: -1
+柱
+  rotate: true
+  xy: 2, 52
+  size: 15, 149
+  orig: 15, 149
+  offset: 0, 0
+  index: -1
+组1拷贝
+  rotate: false
+  xy: 2, 92
+  size: 154, 163
+  orig: 154, 163
+  offset: 0, 0
+  index: -1
+锁
+  rotate: false
+  xy: 158, 32
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+锁孔
+  rotate: true
+  xy: 2, 2
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+锁条
+  rotate: false
+  xy: 2, 12
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+bc.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buchu
+  rotate: false
+  xy: 0, 24
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+yingyin
+  rotate: false
+  xy: 0, 0
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+loding.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+{3E38BE02-AD62-4BD9-B9AF-CBE2755945A5}
+  rotate: false
+  xy: 2, 2
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+{7B25F5FF-3336-4C46-ABED-409270BBE273}
+  rotate: false
+  xy: 117, 2
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+{A974D661-CF65-4B58-9A0E-8F2D1A5F29E3}
+  rotate: false
+  xy: 232, 2
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+{DB4AC26D-20A8-4B49-9077-A8A9286B0910}
+  rotate: false
+  xy: 347, 2
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1

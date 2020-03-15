@@ -1,0 +1,377 @@
+
+paixin.png
+size: 1759,1560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGGLOW
+  rotate: true
+  xy: 2, 32
+  size: 440, 188
+  orig: 440, 196
+  offset: 0, 1
+  index: -1
+chi
+  rotate: false
+  xy: 842, 56
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chi02
+  rotate: false
+  xy: 699, 1213
+  size: 363, 345
+  orig: 363, 345
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 820, 701
+  size: 194, 182
+  orig: 200, 184
+  offset: 0, 2
+  index: -1
+dihu
+  rotate: true
+  xy: 564, 618
+  size: 208, 128
+  orig: 256, 128
+  offset: 22, 0
+  index: -1
+dihu_glow
+  rotate: false
+  xy: 1016, 825
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+duiduihu
+  rotate: true
+  xy: 1578, 355
+  size: 255, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+gang
+  rotate: false
+  xy: 1542, 245
+  size: 111, 108
+  orig: 128, 128
+  offset: 4, 10
+  index: -1
+gang02
+  rotate: false
+  xy: 2, 474
+  size: 363, 345
+  orig: 363, 345
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 326, 11
+  size: 113, 111
+  orig: 128, 128
+  offset: 8, 8
+  index: -1
+hu02
+  rotate: false
+  xy: 2, 821
+  size: 387, 376
+  orig: 1366, 768
+  offset: 495, 207
+  index: -1
+hunyise
+  rotate: false
+  xy: 1016, 695
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+jiating
+  rotate: true
+  xy: 582, 48
+  size: 242, 128
+  orig: 256, 128
+  offset: 3, 0
+  index: -1
+jiating02
+  rotate: true
+  xy: 456, 22
+  size: 128, 124
+  orig: 128, 128
+  offset: 0, 4
+  index: -1
+kankanhu
+  rotate: true
+  xy: 842, 186
+  size: 255, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pen02
+  rotate: false
+  xy: 1016, 955
+  size: 256, 248
+  orig: 256, 256
+  offset: 0, 4
+  index: -1
+peng
+  rotate: false
+  xy: 712, 2
+  size: 128, 127
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qianganhu
+  rotate: true
+  xy: 712, 389
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+qianganhu02
+  rotate: false
+  xy: 2, 1199
+  size: 695, 359
+  orig: 695, 359
+  offset: 0, 0
+  index: -1
+qidui
+  rotate: false
+  xy: 1211, 149
+  size: 202, 128
+  orig: 256, 128
+  offset: 22, 0
+  index: -1
+qiduianjue
+  rotate: true
+  xy: 842, 443
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+qinyise
+  rotate: false
+  xy: 972, 565
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+quanqiuren
+  rotate: false
+  xy: 972, 435
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+ruansixi
+  rotate: true
+  xy: 712, 131
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+tianting
+  rotate: false
+  xy: 972, 45
+  size: 234, 128
+  orig: 256, 128
+  offset: 11, 0
+  index: -1
+tianting02
+  rotate: true
+  xy: 1415, 159
+  size: 128, 125
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+yitiaolong
+  rotate: false
+  xy: 972, 305
+  size: 250, 128
+  orig: 256, 128
+  offset: 3, 0
+  index: -1
+zimo
+  rotate: false
+  xy: 1064, 1302
+  size: 451, 256
+  orig: 512, 256
+  offset: 31, 0
+  index: -1
+zimo_shine
+  rotate: false
+  xy: 1393, 289
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+zimodi
+  rotate: true
+  xy: 1517, 1217
+  size: 341, 197
+  orig: 344, 200
+  offset: 1, 2
+  index: -1
+一条龙
+  rotate: true
+  xy: 1620, 882
+  size: 333, 137
+  orig: 348, 144
+  offset: 4, 7
+  index: -1
+一炮多响
+  rotate: true
+  xy: 564, 828
+  size: 369, 113
+  orig: 369, 113
+  offset: 0, 0
+  index: -1
+七对
+  rotate: false
+  xy: 972, 175
+  size: 237, 128
+  orig: 240, 128
+  offset: 1, 0
+  index: -1
+七对暗绝
+  rotate: true
+  xy: 192, 20
+  size: 452, 132
+  orig: 452, 132
+  offset: 0, 0
+  index: -1
+全求人
+  rotate: true
+  xy: 326, 124
+  size: 348, 128
+  orig: 348, 144
+  offset: 0, 5
+  index: -1
+吃
+  rotate: false
+  xy: 1230, 425
+  size: 173, 154
+  orig: 173, 154
+  offset: 0, 0
+  index: -1
+地胡
+  rotate: false
+  xy: 1208, 24
+  size: 226, 123
+  orig: 240, 128
+  offset: 5, 2
+  index: -1
+天听
+  rotate: true
+  xy: 1274, 913
+  size: 290, 168
+  orig: 326, 194
+  offset: 21, 16
+  index: -1
+天听底
+  rotate: true
+  xy: 820, 885
+  size: 326, 194
+  orig: 326, 194
+  offset: 0, 0
+  index: -1
+天胡
+  rotate: true
+  xy: 694, 647
+  size: 214, 124
+  orig: 240, 128
+  offset: 15, 1
+  index: -1
+对对胡
+  rotate: true
+  xy: 582, 292
+  size: 324, 128
+  orig: 348, 144
+  offset: 7, 8
+  index: -1
+底
+  rotate: false
+  xy: 1064, 1205
+  size: 364, 95
+  orig: 369, 142
+  offset: 5, 16
+  index: -1
+抢杠胡
+  rotate: true
+  xy: 391, 691
+  size: 506, 171
+  orig: 508, 172
+  offset: 1, 1
+  index: -1
+杠
+  rotate: false
+  xy: 1405, 419
+  size: 171, 155
+  orig: 171, 155
+  offset: 0, 0
+  index: -1
+架听
+  rotate: true
+  xy: 1444, 910
+  size: 305, 174
+  orig: 326, 194
+  offset: 15, 16
+  index: -1
+混一色
+  rotate: true
+  xy: 1415, 576
+  size: 332, 126
+  orig: 348, 144
+  offset: 13, 9
+  index: -1
+清一色
+  rotate: true
+  xy: 1274, 581
+  size: 330, 139
+  orig: 348, 144
+  offset: 18, 1
+  index: -1
+点炮
+  rotate: false
+  xy: 1436, 38
+  size: 211, 119
+  orig: 212, 120
+  offset: 1, 0
+  index: -1
+砍砍胡
+  rotate: true
+  xy: 456, 152
+  size: 335, 124
+  orig: 348, 144
+  offset: 0, 9
+  index: -1
+碰
+  rotate: false
+  xy: 1224, 279
+  size: 167, 144
+  orig: 167, 145
+  offset: 0, 1
+  index: -1
+胡
+  rotate: true
+  xy: 367, 489
+  size: 200, 193
+  orig: 200, 193
+  offset: 0, 0
+  index: -1
+自摸
+  rotate: true
+  xy: 1543, 612
+  size: 268, 177
+  orig: 268, 177
+  offset: 0, 0
+  index: -1
+软四喜
+  rotate: true
+  xy: 679, 863
+  size: 334, 139
+  orig: 348, 144
+  offset: 10, 1
+  index: -1

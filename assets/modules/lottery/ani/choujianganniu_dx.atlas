@@ -1,0 +1,20 @@
+
+choujianganniu_dx.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 2
+  size: 132, 126
+  orig: 134, 128
+  offset: 1, 1
+  index: -1
+yanse
+  rotate: true
+  xy: 136, 4
+  size: 124, 118
+  orig: 134, 128
+  offset: 5, 5
+  index: -1

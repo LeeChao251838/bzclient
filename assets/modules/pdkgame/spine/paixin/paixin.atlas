@@ -1,0 +1,62 @@
+
+paixin.png
+size: 454,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wq01
+  rotate: false
+  xy: 183, 51
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wq03
+  rotate: false
+  xy: 313, 145
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+三带一
+  rotate: false
+  xy: 2, 363
+  size: 265, 89
+  orig: 265, 90
+  offset: 0, 1
+  index: -1
+三带二
+  rotate: false
+  xy: 2, 272
+  size: 265, 89
+  orig: 265, 90
+  offset: 0, 1
+  index: -1
+三张
+  rotate: false
+  xy: 2, 90
+  size: 179, 89
+  orig: 265, 90
+  offset: 43, 1
+  index: -1
+四带二
+  rotate: false
+  xy: 2, 181
+  size: 261, 89
+  orig: 265, 90
+  offset: 0, 1
+  index: -1
+连对
+  rotate: false
+  xy: 269, 365
+  size: 183, 87
+  orig: 265, 90
+  offset: 42, 2
+  index: -1
+顺子
+  rotate: false
+  xy: 269, 275
+  size: 178, 88
+  orig: 265, 90
+  offset: 43, 1
+  index: -1

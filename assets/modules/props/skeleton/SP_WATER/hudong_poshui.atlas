@@ -1,0 +1,48 @@
+
+hudong_poshui.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pen01
+  rotate: false
+  xy: 400, 63
+  size: 92, 55
+  orig: 108, 108
+  offset: 8, 18
+  index: -1
+pen02
+  rotate: false
+  xy: 400, 6
+  size: 92, 55
+  orig: 108, 108
+  offset: 8, 18
+  index: -1
+pen03
+  rotate: true
+  xy: 229, 7
+  size: 111, 91
+  orig: 119, 109
+  offset: 8, 18
+  index: -1
+penzi_kou
+  rotate: true
+  xy: 322, 35
+  size: 83, 76
+  orig: 108, 108
+  offset: 12, 13
+  index: -1
+shui1
+  rotate: false
+  xy: 2, 2
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: false
+  xy: 134, 3
+  size: 93, 115
+  orig: 93, 115
+  offset: 0, 0
+  index: -1

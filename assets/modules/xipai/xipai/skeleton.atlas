@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/majlv_7
+  rotate: false
+  xy: 2, 2
+  size: 77, 68
+  orig: 78, 70
+  offset: 0, 1
+  index: -1
+images/shou1
+  rotate: false
+  xy: 2, 72
+  size: 350, 614
+  orig: 500, 700
+  offset: 82, 79
+  index: -1
+images/shou2
+  rotate: false
+  xy: 354, 72
+  size: 350, 614
+  orig: 500, 700
+  offset: 73, 79
+  index: -1

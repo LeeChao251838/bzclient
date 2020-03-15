@@ -1,0 +1,48 @@
+
+yaoqing.png
+size: 214,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+143904b44uvvdh44zuvnpw
+  rotate: false
+  xy: 2, 171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+D-01
+  rotate: true
+  xy: 2, 53
+  size: 116, 132
+  orig: 116, 132
+  offset: 0, 0
+  index: -1
+D-02
+  rotate: false
+  xy: 132, 202
+  size: 80, 97
+  orig: 92, 100
+  offset: 5, 0
+  index: -1
+D-03
+  rotate: false
+  xy: 2, 2
+  size: 162, 49
+  orig: 172, 52
+  offset: 5, 0
+  index: -1
+c2
+  rotate: true
+  xy: 136, 134
+  size: 66, 65
+  orig: 68, 68
+  offset: 1, 1
+  index: -1
+glow01_w
+  rotate: false
+  xy: 136, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

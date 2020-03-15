@@ -1,0 +1,62 @@
+
+quanguan.png
+size: 663,663
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanwu01
+  rotate: true
+  xy: 2, 103
+  size: 113, 106
+  orig: 128, 128
+  offset: 8, 13
+  index: -1
+上
+  rotate: true
+  xy: 576, 46
+  size: 355, 85
+  orig: 355, 85
+  offset: 0, 0
+  index: -1
+下
+  rotate: false
+  xy: 2, 4
+  size: 393, 94
+  orig: 393, 94
+  offset: 0, 0
+  index: -1
+全关
+  rotate: true
+  xy: 419, 100
+  size: 301, 155
+  orig: 301, 155
+  offset: 0, 0
+  index: -1
+前
+  rotate: false
+  xy: 2, 358
+  size: 415, 303
+  orig: 415, 305
+  offset: 0, 2
+  index: -1
+右
+  rotate: true
+  xy: 2, 288
+  size: 68, 315
+  orig: 68, 315
+  offset: 0, 0
+  index: -1
+后
+  rotate: true
+  xy: 419, 403
+  size: 258, 238
+  orig: 258, 238
+  offset: 0, 0
+  index: -1
+左
+  rotate: true
+  xy: 2, 218
+  size: 68, 315
+  orig: 68, 315
+  offset: 0, 0
+  index: -1

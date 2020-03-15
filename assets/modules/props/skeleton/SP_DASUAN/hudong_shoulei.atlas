@@ -1,0 +1,41 @@
+
+hudong_shoulei.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dasuan02
+  rotate: false
+  xy: 2, 6
+  size: 87, 70
+  orig: 108, 108
+  offset: 11, 15
+  index: -1
+dasuan03
+  rotate: false
+  xy: 173, 2
+  size: 107, 106
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+fenwei
+  rotate: false
+  xy: 173, 110
+  size: 142, 141
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+guang01
+  rotate: false
+  xy: 2, 78
+  size: 169, 173
+  orig: 176, 176
+  offset: 6, 0
+  index: -1
+weidao
+  rotate: false
+  xy: 317, 129
+  size: 102, 122
+  orig: 142, 142
+  offset: 22, 8
+  index: -1

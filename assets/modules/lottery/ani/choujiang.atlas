@@ -1,0 +1,20 @@
+
+choujiang.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choujiang
+  rotate: false
+  xy: 71, 7
+  size: 61, 86
+  orig: 82, 88
+  offset: 9, 0
+  index: -1
+choujiang02
+  rotate: false
+  xy: 2, 2
+  size: 67, 91
+  orig: 82, 94
+  offset: 6, 1
+  index: -1
